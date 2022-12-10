@@ -1,0 +1,42 @@
+body{
+    background-image: url(images/pastel\ 002.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:rgba(196, 17, 53, 0.438);
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+    text-align: center;
+}
+header{
+height: 65px;
+text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div{
+    height: 55px;
+    text-align: right;
+
+}
+main{
+    height: 65px;
+    margin-top: 65px;
+}
+footer{
+    margin-top: 200px;
+    padding-top: 100px;
+}
+a{
+    color: rgba(0, 0, 0, 0.616);
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 18px;
+}
+#colorTag:hover{
+    color: black;
+}
